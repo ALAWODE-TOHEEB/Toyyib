@@ -209,6 +209,17 @@ ul li a:hover{
     border-radius: 10px;
 }
 
+.btnn:hover{
+    background: white;
+    color: orange;
+}
+
+.btnn a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
 .form .link{
     font-family: arial;
     font-size: 17px;
@@ -216,7 +227,7 @@ ul li a:hover{
     text-align: center;
 }
 
-.form a{
+.form .link a{
     text-decoration: none;
     color: orange;
     text-align: center;   
